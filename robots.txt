@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ATeapot649.github.io/sitemap.xml
